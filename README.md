@@ -3,15 +3,15 @@ CIS 522 Final Project
 
 Contributors: Arvind Balaji Narayan (Pennkey: narvind), Gopik Anand (Pennkey: ganand) and Vasanth Kolli (Pennkey: vasanthk)
 
-# How to Run Colab Notebooks:
+# How to Run the Colab Notebook:
 
-A) Datasets to add: 
+Explanation of each folder and file:
+
+A) Datasets to add: (Datasets Folder)
 For Reddit: Upload the news_posts.csv from the Datasets folder into your Colab Notebook.
 For Twitter: Upload the fake_news_tweets.csv and real_news_tweets.csv from the Datasets folder into your Colab Notebook.
 
 Upload your kaggle.json file into your Colab Notebook. How to do this: Go to Kaggle, move to your profile, click on Account and click on Create New API Token.
-
-Explanation of each folder and file:
 
 B) Our training dataset is the Kaggle Dataset while our testing dataset is either the Reddit or the Twitter or a combination of both. 
 
