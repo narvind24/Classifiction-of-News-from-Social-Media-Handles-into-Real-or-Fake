@@ -5,7 +5,7 @@ Contributors: Arvind Balaji Narayan (Pennkey: narvind), Gopik Anand (Pennkey: ga
 
 # How to Run Colab Notebooks:
 
-Datasets to add: 
+A) Datasets to add: 
 For Reddit: Upload the news_posts.csv from the Datasets folder into your Colab Notebook.
 For Twitter: Upload the fake_news_tweets.csv and real_news_tweets.csv from the Datasets folder into your Colab Notebook.
 
@@ -13,16 +13,16 @@ Upload your kaggle.json file into your Colab Notebook. How to do this: Go to Kag
 
 Explanation of each folder and file:
 
-A) Our training dataset is the Kaggle Dataset while our testing dataset is either the Reddit or the Twitter or a combination of both. 
+B) Our training dataset is the Kaggle Dataset while our testing dataset is either the Reddit or the Twitter or a combination of both. 
 
 Case 1: Training Set: Kaggle Testing Set: Reddit (GitHub Folder: Train Kaggle Test Reddit)
 Case 2: Training Set: Kaggle Testing Set: Twitter (GitHub Folder: Train Kaggle Test Twitter)
 Case 3: Training Set: Kaggle Testing Set: Twitter + Reddit (GitHub Folder: Train Kaggle Test Reddit+Twitter)
 
-B) The CIS 522 Model Accuracy Tabulations.xlsx is a Excel Sheet documenting the accuracy and f1 score results for all the different models
+C) The CIS 522 Model Accuracy Tabulations.xlsx is a Excel Sheet documenting the accuracy and f1 score results for all the different models
 
-C) The CIS 522 Project Proposal is our project proposal document. 
+D) The CIS 522 Project Proposal is our project proposal document. 
 
-D) The Poster Presentation folder contains the PPT that we used for Poster Presentation. 
+E) The Poster Presentation folder contains the PPT that we used for Poster Presentation. 
 
 
